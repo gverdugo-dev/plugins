@@ -1,0 +1,10 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "gv-plugins",
+  "description": "Plugins y skills de Claude Code de Gonzalo Verdugo, listos para instalar.",
+  "owner": {
+    "name": "Gonzalo Verdugo",
+    "email": "verdugogarridogonzalo@gmail.com"
+  },
+  "plugins": []
+}
