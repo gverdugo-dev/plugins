@@ -64,3 +64,20 @@ actualización es hacer push.
 - **Sin em-dashes** (`—`, `–`) en comentarios ni docstrings, ni emojis dentro de un comentario.
 - **Naming**: kebab-case para carpetas, plugins, skills y archivos `.md`.
 - **Commits**: no añadir `Co-Authored-By` salvo petición explícita.
+
+## Agent skills
+
+### Issue tracker
+
+Las issues y specs de este repo viven en GitHub Issues de `gverdugo-dev/plugins` y se gestionan
+con la CLI `gh` (las PRs externas no cuentan como peticiones). Ver `docs/agents/issue-tracker.md`.
+
+### Triage labels
+
+Se usan las cinco etiquetas por defecto con su nombre canónico: `needs-triage`, `needs-info`,
+`ready-for-agent`, `ready-for-human` y `wontfix`. Ver `docs/agents/triage-labels.md`.
+
+### Domain docs
+
+Single-context: un `CONTEXT.md` y un `docs/adr/` en la raíz del repo, creados bajo demanda cuando
+haga falta. Ver `docs/agents/domain.md`.
