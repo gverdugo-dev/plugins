@@ -69,8 +69,11 @@ actualización es hacer push.
 
 ### Issue tracker
 
-Las issues y specs de este repo viven en GitHub Issues de `gverdugo-dev/plugins` y se gestionan
-con la CLI `gh` (las PRs externas no cuentan como peticiones). Ver `docs/agents/issue-tracker.md`.
+Las issues y specs de este recurso **no viven en este repo**: viven en las GitHub Issues del
+contenedor privado `gverdugo-dev/personal-public-resources`, con la label `resource:plugins`,
+y se gestionan con la CLI `gh` (cuenta `gverdugo-dev`) pasando siempre
+`-R gverdugo-dev/personal-public-resources`. Las PRs sí son de este repo. Ver
+`docs/agents/issue-tracker.md`.
 
 ### Triage labels
 
