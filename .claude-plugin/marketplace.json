@@ -6,5 +6,12 @@
     "name": "Gonzalo Verdugo",
     "email": "verdugogarridogonzalo@gmail.com"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "other",
+      "source": "./plugins/other",
+      "description": "Recursos sueltos: techie-resources, una lista curada de herramientas, canales, cursos, newsletters, libros y otras cosas tech.",
+      "category": "productivity"
+    }
+  ]
 }

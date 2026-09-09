@@ -10,7 +10,7 @@ instalar.
 | | |
 |---|---|
 | **Qué es** | Marketplace público de Claude Code `gv-plugins` |
-| **Estado** | Activo; todavía sin plugins publicados |
+| **Estado** | Activo |
 | **Stack** | Plugins, skills y agentes en markdown; scripts sin dependencias |
 | **Repo** | `gverdugo-dev/plugins`, público |
 | **Forma parte de** | `personal-public-resources`, el contenedor de recursos personales |
@@ -22,7 +22,7 @@ que hace y cómo se usa.
 
 | Plugin | Qué hace | Skills |
 |--------|----------|--------|
-| - | _Todavía no hay ninguno publicado._ | - |
+| `other` | Recursos sueltos que no encajan en ninguna otra categoría | `techie-resources`: lista curada de herramientas, canales, cursos, newsletters, libros y otras cosas tech |
 
 ## Cómo se usa
 

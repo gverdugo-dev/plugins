@@ -1,0 +1,18 @@
+{
+  "name": "other",
+  "displayName": "Other",
+  "description": "Recursos sueltos que no encajan en ninguna otra categoría. Hoy: techie-resources, una lista curada de herramientas, canales, cursos, newsletters, libros y otras cosas tech interesantes.",
+  "author": {
+    "name": "Gonzalo Verdugo",
+    "email": "verdugogarridogonzalo@gmail.com"
+  },
+  "keywords": [
+    "resources",
+    "tools",
+    "channels",
+    "newsletters",
+    "books",
+    "tech",
+    "curated"
+  ]
+}

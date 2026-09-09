@@ -29,7 +29,8 @@ plugins/
         ├── .claude-plugin/plugin.json
         ├── skills/<skill>/SKILL.md
         ├── agents/<agente>.md         # opcional
-        └── README.md
+        ├── docs/banner.jpg            # cabecera ilustrada
+        └── README.md                  # sigue docs/plugin-readme-template.md del contenedor
 ```
 
 ## Instalar
