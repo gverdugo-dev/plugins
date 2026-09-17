@@ -20,6 +20,7 @@ Cada entrada sigue la misma forma: `- [Nombre](url): por qué merece la pena, en
 - [Aura gradients](https://auragradients.vercel.app): librería pequeña de fondos con gradientes ambientales en CSS puro, para dar fondo a una web sin imágenes.
 - [AI Hero](https://www.aihero.dev): la escuela de Matt Pocock para construir con IA; cursos, cohortes y tutoriales gratuitos.
 - [mattpocock/skills](https://github.com/mattpocock/skills): las skills de Matt Pocock para agentes de código; pequeñas y componibles, cubren alinear antes de construir, specs y tickets, TDD, diagnóstico de bugs y revisión. Se instalan como plugin de Claude Code.
+- [Tally](https://tally.so): formularios que se escriben como un documento, al estilo Notion; formularios y respuestas ilimitados en el plan gratuito, se incrustan en cualquier web y se conectan con Notion, Slack o webhooks sin código.
 
 ## Datos
 
