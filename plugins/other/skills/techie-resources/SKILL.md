@@ -21,6 +21,8 @@ Cada entrada sigue la misma forma: `- [Nombre](url): por qué merece la pena, en
 - [AI Hero](https://www.aihero.dev): la escuela de Matt Pocock para construir con IA; cursos, cohortes y tutoriales gratuitos.
 - [mattpocock/skills](https://github.com/mattpocock/skills): las skills de Matt Pocock para agentes de código; pequeñas y componibles, cubren alinear antes de construir, specs y tickets, TDD, diagnóstico de bugs y revisión. Se instalan como plugin de Claude Code.
 - [Tally](https://tally.so): formularios que se escriben como un documento, al estilo Notion; formularios y respuestas ilimitados en el plan gratuito, se incrustan en cualquier web y se conectan con Notion, Slack o webhooks sin código.
+- [NumberFlow](https://number-flow.barvian.me): componente de números animados, sin dependencias y accesible, que hace rodar los dígitos al cambiar el valor; para contadores, precios y marcadores que se mueven con gracia (React, Vue y Svelte).
+- [Anatomy](https://skills.wheresryan.sh/anatomy): skill de Claude Code que convierte una idea técnica en una figura isométrica interactiva en SVG, una máquina con sus piezas cuyos números salen del mismo modelo que la mueve; tiene [galería](https://skills.wheresryan.sh/anatomy/collection) y se instala con `npx skills add wheresryan22/anatomy`.
 
 ## Datos
 
